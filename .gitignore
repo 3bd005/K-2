@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+claude/
+
+# Files written by the FilesystemBackend demo (demos/backends.py filesystem)
+demos/notes/
+
+# Environment / secrets
+.env
+*.env
+**/.env
+!*.env.example
