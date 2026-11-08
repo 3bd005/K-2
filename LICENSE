@@ -1,21 +1,42 @@
-MIT License
+K-2 — PROPRIETARY LICENSE
 
-Copyright (c) 2026 3bd005
+Copyright (c) 2026 Abdullah Abualigah.
+All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. OWNERSHIP
+The K-2 project, including its original source code,
+architecture, workflows, documentation, and original
+materials, is the intellectual property of Abdullah
+Abualigah, except for third-party components governed
+by their respective licenses.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. PERMITTED ACCESS
+This repository is publicly available for viewing
+and evaluation purposes only.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. RESTRICTIONS
+Without prior written permission from the copyright
+holder, no person or entity may:
+
+- Copy or reproduce the project.
+- Modify or create derivative works.
+- Redistribute or sublicense the software.
+- Use the software for commercial purposes.
+- Sell or commercially exploit the project or
+  its original components.
+
+4. COMMERCIAL LICENSING
+Commercial use, licensing, distribution, and
+acquisition may be negotiated directly with
+the copyright holder.
+
+5. NO RIGHTS GRANTED
+Public access to this repository does not grant
+any license or ownership rights.
+
+6. DISCLAIMER
+The software is provided "AS IS", without warranty
+of any kind.
+
+For licensing inquiries:
+Contact the copyright holder.
